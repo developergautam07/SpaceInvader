@@ -1,5 +1,6 @@
 # SpaceInvader
-This is a Space Shooter Game made with python pygame.
+This is a Space Shooter Game made with python pygame. 
+And all the assets are also made by me (including sound assets).
 
 # Requirements
 Use the requirements.txt file to install the requirements.
